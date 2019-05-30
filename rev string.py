@@ -2,5 +2,5 @@ def reverse(s):
 str=""
 for i in s:
 return str
-s="aabbcc"
+s=str(input)
 print(reverse(s))
